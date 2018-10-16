@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "angularlogin",
+    "packageName": "io.github.angularlogin",
+    "packageFolder": "io/github/angularlogin",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.4.2",
+    "jwtSecretKey": "ZjU2MDZmYzMxMjU2ZmUyMmYxOGNhZTI2NWQxZjRkMmQyZDY5MGRkNWY1Y2E2MTYwOGM1YmQ3ODliOTJiYWIwMzgzOTYyN2UzNDEwYTY4ZjE5ZmQ4MzVkNmM1YzViOWUzMWIxMjVjZDI0NTA3MmYxNjA4YjUyMmNkYzFiMDZmMzg="
+  },
+  "git-provider": "GitHub",
+  "git-company": "Balagangadhar",
+  "repository-name": "angularlogin"
+}
